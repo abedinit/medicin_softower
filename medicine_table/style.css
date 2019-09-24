@@ -1,0 +1,16 @@
+ tr {
+    border: 1px solid #c9c3c3;
+}
+table {
+    width: 1050px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+td {
+    width: 50%;
+    font-weight: 500;
+}
+
+.bs-example h3 {
+    margin-left: 135px;
+}
