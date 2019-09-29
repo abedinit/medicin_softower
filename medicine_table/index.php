@@ -74,7 +74,7 @@
                 <td>Thana:</td>
                 <td>
                 <select name="thana">
-                    <option  >Chose Thana</option>
+                    <option value="0" >Chose Thana</option>
                     <option >Dhaka</option>
                     <option >Cumilla</option>
                     <option >Foridpur</option>
